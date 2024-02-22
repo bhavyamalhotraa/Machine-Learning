@@ -1,9 +1,0 @@
-1. ipynb notebook for model
-   1.1 data cleaning
-   1.2 feature Engineering
-   1.3 Outlier removal
-   1.4 Linear regression
-   1.4 cross validation
-   1.5 gridcv
-   1.6 pickle to store model coefficients
-   1.7 json to store model columns
